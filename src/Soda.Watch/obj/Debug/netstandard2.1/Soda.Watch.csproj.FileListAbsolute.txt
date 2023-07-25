@@ -1,0 +1,10 @@
+D:\Remote\Soda.Watch\src\Soda.Watch\obj\Debug\netstandard2.1\Soda.Watch.csproj.AssemblyReference.cache
+D:\Remote\Soda.Watch\src\Soda.Watch\obj\Debug\netstandard2.1\Soda.Watch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Remote\Soda.Watch\src\Soda.Watch\obj\Debug\netstandard2.1\Soda.Watch.AssemblyInfoInputs.cache
+D:\Remote\Soda.Watch\src\Soda.Watch\obj\Debug\netstandard2.1\Soda.Watch.AssemblyInfo.cs
+D:\Remote\Soda.Watch\src\Soda.Watch\obj\Debug\netstandard2.1\Soda.Watch.csproj.CoreCompileInputs.cache
+D:\Remote\Soda.Watch\src\Soda.Watch\bin\Debug\netstandard2.1\Soda.Watch.deps.json
+D:\Remote\Soda.Watch\src\Soda.Watch\bin\Debug\netstandard2.1\Soda.Watch.dll
+D:\Remote\Soda.Watch\src\Soda.Watch\bin\Debug\netstandard2.1\Soda.Watch.pdb
+D:\Remote\Soda.Watch\src\Soda.Watch\obj\Debug\netstandard2.1\Soda.Watch.dll
+D:\Remote\Soda.Watch\src\Soda.Watch\obj\Debug\netstandard2.1\Soda.Watch.pdb
